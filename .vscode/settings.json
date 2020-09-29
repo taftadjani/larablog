@@ -1,0 +1,9 @@
+{
+    "namespaceResolver.leadingSeparator": false,
+    "php-cs-fixer.autoFixByBracket": false,
+    "phpParameterHint.onSave": false,
+    "phpParameterHint.php7": false,
+    "editor.parameterHints.enabled": false,
+    "intelephense.completion.triggerParameterHints": false,
+    "phpParameterHint.enabled": false
+}
